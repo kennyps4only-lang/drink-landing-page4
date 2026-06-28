@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kennyps4only-lang.github.io/drink-landing-page4/sitemap.xml
